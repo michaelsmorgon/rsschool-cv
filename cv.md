@@ -1,19 +1,63 @@
-Mikhail Zmahar
+## Mikhail Zmahar
 
-Contacts:
-Mobile: +48 452 332 352
-Discord: smorgonpl
-Email: smorgon@int.pl
+---
+![Avatar](https://michaelsmorgon.github.io/rsschool-cv/img/avatar.png  "Avatar")
 
-Adress:
-Białystok, Poland
+---
+### Contacts
+Type        | Value
+-----------:|:-------
+*Mobile*:   | +48 452 332 352 
+*Discord*:  | smorgonpl
+*Email*:    | smorgon@int.pl
 
-About:
+---
+### Address
+*Białystok, Poland*
 
-Skills:
-PHP(begginer), JavaScript(begginer), Git(begginer), SCRUM
+---
+### About:
+I want to get new knowledge.
 
-Education:
-BSUIR KSiS
+I've experience in team development.
 
-Experience
+Executive, non-conflict, educable
+
+---
+### Skills
+Skills       | Experience
+-------------|:------- 
+*PHP*        | Begginer
+*JavaScript* | Begginer
+*HTML*       | Begginer
+*CSS*        | Begginer
+*Git*        | Begginer
+*SCRUM*      | 0,5 year
+*PhpStorm*   | 0,5 year
+*VS Code*    | Begginer
+
+---
+### Code example
+```
+multiply = (a, b) => a * b;
+```
+
+---
+### Experience
+*XSLT-developer 0,5 year*
+
+---
+### Projects
+[CV](https://michaelsmorgon.github.io/rsschool-cv/cv 'CV')
+
+---
+### Education
+*BSUIR KSiS*
+
+---
+### Languages
++ *Belarusian*: native
+
++ *English*: pre-intermediate/intermediate
+
++ *Polish*: A1
