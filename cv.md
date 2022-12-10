@@ -5,11 +5,12 @@
 
 ---
 ### Contacts
-Type        | Value
------------:|:-------
-*Mobile*:   | +48 452 332 352 
-*Discord*:  | smorgonpl
-*Email*:    | smorgon@int.pl
+
+| Type        | Value            |
+| -----------:|:-------          |
+| *Mobile*:   | +48 452 332 352  |
+| *Discord*:  | smorgonpl        |
+| *Email*:    | smorgon@int.pl   |
 
 ---
 ### Address
@@ -25,16 +26,17 @@ Executive, non-conflict, educable
 
 ---
 ### Skills
-Skills       | Experience
--------------|:------- 
-*PHP*        | Begginer
-*JavaScript* | Begginer
-*HTML*       | Begginer
-*CSS*        | Begginer
-*Git*        | Begginer
-*SCRUM*      | 0,5 year
-*PhpStorm*   | 0,5 year
-*VS Code*    | Begginer
+
+| Skills        | Experience    |
+| ------------- | :------------ |
+| *PHP*         | Begginer      |
+| *JavaScript*  | Begginer      |
+| *HTML*        | Begginer      |
+| *CSS*         | Begginer      |
+| *Git*         | Begginer      |
+| *SCRUM*       | 0,5 year      |
+| *PhpStorm*    | 0,5 year      |
+| *VS Code*     | Begginer      |
 
 ---
 ### Code example
@@ -48,7 +50,7 @@ multiply = (a, b) => a * b;
 
 ---
 ### Projects
-[CV](https://michaelsmorgon.github.io/rsschool-cv/cv 'CV')
+[CV](https://michaelsmorgon.github.io/rsschool-cv/cv)
 
 ---
 ### Education
