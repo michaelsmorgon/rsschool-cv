@@ -1,1 +1,2 @@
-# rsschool-cv
+- https://michaelsmorgon.github.io/rsschool-cv/cv
+- https://michaelsmorgon.github.io/rsschool-cv/
