@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV Mikhail Zmahar</title>
+    <link rel="icon" href="./assets/favicon.ico">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                    <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                    <li class="nav-item"><a href="#languages" class="nav-link">Language</a></li>
+                    <li class="nav-item"><a href="#experience" class="nav-link">Experience</a></li>
+                    <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                    <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main class="main">
+        <div class="container main-container">
+            <section class="section section-about" id="about">
+                <img src="assets/img/avatar.png" alt="avatar" class="section-about-avatar">
+                <div class="section-about-title">
+                    <h1 class="section-title about-title">Mikhail Zmahar</h1>
+                    <p>I've experience in team development.<br>I want to get new knowledge.<br>Executive, non-conflict, educable.</p>
+                </div>
+            </section>
+            <section class="section" id="skills">
+                <h2 class="section-title">Skills</h2>
+                <ul class="section-list">
+                    <li class="section-item">
+                        Development:
+                        <span>PHP, HTML5, CSS3, JavaScript</span>
+                    </li>
+                    <li class="section-item">
+                        Version Control:
+                        <span>Github, GIT</span>
+                    </li>
+                    <li class="section-item">
+                        IDE:
+                        <span>PhpStorm, Visual Studio Code</span>
+                    </li>
+                </ul>
+            </section>
+            <section class="section" id="education">
+                <h2 class="section-title">Education</h2>
+                <p>Belarusian State University of Informatics and Radioelectronics</p>
+            </section>
+            <section class="section" id="languages">
+                <h2 class="section-title">Languages</h2>
+                <ul class="section-list">
+                    <li class="section-item">Belarusian: <span>native</span></li>
+                    <li class="section-item">English: <span>pre-intermediate/intermediate</span></li>
+                    <li class="section-item">Polish: <span>A1</span></li>
+                </ul>
+            </section>
+            <section class="section" id="experience">
+                <h2 class="section-title">Experience</h2>
+                <p>XSLT-developer 0,5 year<br>PHP-developer 1 year</p>
+            </section>
+            <section class="section section-last-row" id="contacts">
+                <h2 class="section-title">Contacts</h2>
+                <ul class="section-list">
+                    <li class="section-item">
+                        Białystok, Poland
+                    </li>
+                    <li class="section-item">
+                        Phone:
+                        <a href="tel:+48452332352">+48 452 332 352</a>
+                    </li>
+                    <li class="section-item">
+                        Email:
+                        <a href="mailto:smorgon@int.pl">smorgon@int.pl</a>
+                    </li>
+                    <li class="section-item">
+                        Disord:
+                        <a href="https://discordapp.com/users/1049740838911094895/">smorgonpl#1126</a>
+                    </li>
+                    <li class="section-item">
+                        Github:
+                        <a href="https://github.com/michaelsmorgon">michaelsmorgon</a>
+                    </li>
+                </ul>
+            </section>
+            <section class="section section-last-row" id="projects">
+                <h2 class="section-title">Projects</h2>
+                <p><a href="https://michaelsmorgon.github.io/rsschool-cv/cv" class="section-projects-link">CV Project</a></p>
+                <h3 class="section-title">Code</h3>
+                <p>
+                    <pre class="section-pre">
+                        <code>
+function bubbleSort(arr) {
+  let sorted;
+    
+  do {
+    sorted = false;
+    arr.forEach((val, index) => {
+      if (val > arr[index + 1]) {
+        let temp = val;
+        arr[index] = arr[index + 1];
+        arr[index + 1] = temp;
+        sorted = true;
+      }
+    })
+  } while (sorted);
+}
+                        </code>
+                    </pre>
+                </p>
+            </section>
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="container footer-container">
+            <a href="https://github.com/michaelsmorgon" class="footer-container-link">michaelsmorgon</a>
+            <span class="footer-container-link">&copy; 2022</span>
+            <a href="https://rs.school/js/" class="footer-container-link rss-link"></a>
+            
+        </div>
+    </footer>
+</body>
+</html>
