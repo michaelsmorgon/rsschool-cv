@@ -1,7 +1,7 @@
 ## Mikhail Zmahar
 
 ---
-![Avatar](https://michaelsmorgon.github.io/rsschool-cv/img/avatar.png  "Avatar")
+![Avatar](https://michaelsmorgon.github.io/rsschool-cv/assets/img/avatar.png  "Avatar")
 
 ---
 ### Contacts
